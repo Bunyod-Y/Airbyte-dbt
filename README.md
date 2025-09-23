@@ -1,4 +1,4 @@
-# Airbyte-dbt-PowerBI-Airflow
+# Airbyte-dbt
 Data Engineering Project
 
 🏗️ Project Architecture
