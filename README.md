@@ -15,24 +15,5 @@ Cleans raw data (staging models).
 
 Builds business logic (intermediate models).
 
-Creates analytics-ready tables (fact & dimension models).
+Creates analytics-ready tables (fact & dimension models)
 
-Adds data tests + documentation.
-
-Visualization (Power BI)
-
-Connects to the transformed tables (fct_sales, dim_customers, etc.).
-
-Dashboards for KPIs (Revenue, Retention, Customer Lifetime Value).
-
-Orchestration (Airflow)
-
-Schedules & monitors pipelines.
-
-Example DAG:
-
-Run Airbyte sync
-
-Run dbt transformations
-
-Notify Power BI refresh
