@@ -1,5 +1,5 @@
 # Airbyte-dbt
-Data Engineering Project
+Mini Data Engineering Project
 
 🏗️ Project Architecture
 
